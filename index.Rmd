@@ -4,4 +4,4 @@ title: "Home"
 
 Hello, I am a PhD candidate at Humboldt-University of Berlin. Welcome to my webpage !
 
-![](image1.jpg)
+![](image1.jpg){ width=250% }
