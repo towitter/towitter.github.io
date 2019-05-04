@@ -1,5 +1,7 @@
 ---
-title: "My Website"
+title: "Home"
 ---
 
-Hello, Website!
+Hello, I am a PhD candidate at Humboldt-University of Berlin. Welcome to my webpage !
+
+![](image1.jpg)

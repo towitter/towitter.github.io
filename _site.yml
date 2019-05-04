@@ -1,8 +1,10 @@
 name: "my-website"
 navbar:
-  title: "My Website"
+  title: "Tobias Witter"
   left:
     - text: "Home"
       href: index.html
-    - text: "About"
+    - text: "CV"
+      href: cv.html
+    - text: "About me"
       href: about.html
