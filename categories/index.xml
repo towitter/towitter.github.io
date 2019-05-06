@@ -6,9 +6,28 @@
     <description>Recent content in Categories on Tobias Witter</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Sun, 05 May 2019 11:10:58 +0200</lastBuildDate>
     
 	<atom:link href="https://towitter.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Tobias Witter</title>
+      <link>https://towitter.github.io/categories/tobias-witter/</link>
+      <pubDate>Sun, 05 May 2019 11:10:58 +0200</pubDate>
+      
+      <guid>https://towitter.github.io/categories/tobias-witter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tobias Witter Personal Webpage</title>
+      <link>https://towitter.github.io/categories/tobias-witter-personal-webpage/</link>
+      <pubDate>Sun, 05 May 2019 11:10:58 +0200</pubDate>
+      
+      <guid>https://towitter.github.io/categories/tobias-witter-personal-webpage/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

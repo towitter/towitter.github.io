@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tobias Witter</title>
+    <link>https://towitter.github.io/tags/tobias-witter/</link>
+    <description>Recent content on Tobias Witter</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 05 May 2019 11:10:58 +0200</lastBuildDate>
+    
+	<atom:link href="https://towitter.github.io/tags/tobias-witter/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Intro</title>
+      <link>https://towitter.github.io/post/intro_welcome/</link>
+      <pubDate>Sun, 05 May 2019 11:10:58 +0200</pubDate>
+      
+      <guid>https://towitter.github.io/post/intro_welcome/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://towitter.github.io/author/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://towitter.github.io/author/admin/</guid>
+      <description>Hi, I am Tobias. I am a PhD researcher at Humboldt-University of Berlin. I work as a research assistant at the Institute of Accounting and Auditing at the chair of Joachim Gassen. Before that, I worked as a lecturer at Beuth University of Applied Sciences and advisor and caseworker at the German statutory pension insurance scheme.
+My research interests include interactions of firms and government agencies, and its consequences for investment and transparency.</description>
+    </item>
+    
+  </channel>
+</rss>
